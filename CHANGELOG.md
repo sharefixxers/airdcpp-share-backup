@@ -1,3 +1,7 @@
+## Notes (1.0.5)
+
+Fixed the wrong github links
+
 ## Notes (1.0.1 / 1.0.2 / 1.0.3 / 1.0.4)
 
 Some issues with publishing it!

@@ -1,6 +1,6 @@
 {
   "name": "airdcpp-share-backup",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Hub command /sharebackup [path] that saves a self-verified snapshot of your own share (folder names, file names, sizes, TTH) to a local backup file, with optional bz2 compression.",
   "main": "dist/main.js",
   "license": "MIT",
@@ -13,10 +13,10 @@
     "airdcpp-extensions",
     "airdcpp-extensions-public"
   ],
-  "bugs": "https://github.com/sharefixxers/airdcpp-extensions/issues",
+  "bugs": "https://github.com/sharefixxers/airdcpp-share-backup/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sharefixxers/airdcpp-extensions.git",
+    "url": "https://github.com/sharefixxers/airdcpp-share-backup.git",
     "directory": "airdcpp-share-backup"
   },
   "scripts": {
